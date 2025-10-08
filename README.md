@@ -64,9 +64,10 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif"/>
-</p>
+<img src="https://raw.githubusercontent.com/iqbalnugrahap/iqbalnugrahap/output/snake.svg" alt="Snake animation" />
+
+###
+
 
 ---
 
